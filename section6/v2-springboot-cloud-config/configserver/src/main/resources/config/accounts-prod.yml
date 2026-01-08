@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Rishi - Product Owner"
-    email: "prakhar@eazybank.com"
+    email: "{cipher}7230ca6425b74222951819eb32e38f13095d77bdca4259016bf288978fca2c2a15844eaa34676f2d97de6b22b830b271"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345

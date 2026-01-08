@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: "configserver"
+  profiles:
+    #active: native
+    active: git
+  cloud:
+    config:
+      server:
+        #native:
+          #search-locations: "classpath:/config"
+          #file system approach
+          #search-locations: "file:///C:/Users/pravishn2/Documents/Dev/Microservices/section6/v2-springboot-cloud-config/configserver/src/main/resources/config"
+        git:
+          uri: https://github.com/eazybytes/eazybytes-config.git
+          default-label: main
+          timeout: 5
+          clone-on-start: true
+          force-pull: true
+
+encrypt:
+  key: "oKsqM5ERIxNJL1PONm99vQaG+j0GgfHlg5fdZ8RtQAk="
+server:
+  port: 8071

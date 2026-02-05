@@ -3,6 +3,81 @@
   <component name="SymbolSearchPersistentStateComponent">
     <option name="entries">
       <map>
+        <entry key="$PROJECT_DIR$/../../../MicroservicePOC/VIrtual-Thread-Playground/src/main/java/org/thread/sec08/aggregator/AggregatorService.java">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1767943895087" />
+                  <option name="hash" value="-868846142" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="AggregatorService" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/../../../MicroservicePOC/VIrtual-Thread-Playground/src/main/java/org/thread/sec08/aggregator/AggregatorService.java" />
+                    <option name="startLine" value="9" />
+                    <option name="endLine" value="30" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="executorService" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/../../../MicroservicePOC/VIrtual-Thread-Playground/src/main/java/org/thread/sec08/aggregator/AggregatorService.java" />
+                    <option name="startLine" value="11" />
+                    <option name="startCharacter" value="34" />
+                    <option name="endLine" value="11" />
+                    <option name="endCharacter" value="49" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="AggregatorService" />
+                    <option name="kind" value="CONSTRUCTOR" />
+                    <option name="filePath" value="$PROJECT_DIR$/../../../MicroservicePOC/VIrtual-Thread-Playground/src/main/java/org/thread/sec08/aggregator/AggregatorService.java" />
+                    <option name="startLine" value="13" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="getProductDto" />
+                    <option name="kind" value="METHOD" />
+                    <option name="filePath" value="$PROJECT_DIR$/../../../MicroservicePOC/VIrtual-Thread-Playground/src/main/java/org/thread/sec08/aggregator/AggregatorService.java" />
+                    <option name="startLine" value="17" />
+                    <option name="startCharacter" value="4" />
+                    <option name="endLine" value="28" />
+                    <option name="endCharacter" value="5" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="product" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/../../../MicroservicePOC/VIrtual-Thread-Playground/src/main/java/org/thread/sec08/aggregator/AggregatorService.java" />
+                    <option name="startLine" value="18" />
+                    <option name="startCharacter" value="12" />
+                    <option name="endLine" value="22" />
+                    <option name="endCharacter" value="55" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="rating" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/../../../MicroservicePOC/VIrtual-Thread-Playground/src/main/java/org/thread/sec08/aggregator/AggregatorService.java" />
+                    <option name="startLine" value="23" />
+                    <option name="startCharacter" value="12" />
+                    <option name="endLine" value="26" />
+                    <option name="endCharacter" value="38" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/accounts/src/main/java/com/microservice/accounts/AccountsApplication.java">
           <value>
             <FileEntry>
@@ -378,9 +453,52 @@
             <FileEntry>
               <option name="meta">
                 <FileMeta>
-                  <option name="timeStamp" value="1767683774376" />
-                  <option name="hash" value="1577667718" />
+                  <option name="timeStamp" value="1767855945947" />
+                  <option name="hash" value="-1667824097" />
                 </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="AccountContactInfoDto" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/accounts/src/main/java/com/microservice/accounts/dto/AccountContactInfoDto.java" />
+                    <option name="startLine" value="10" />
+                    <option name="endLine" value="17" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="message" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/accounts/src/main/java/com/microservice/accounts/dto/AccountContactInfoDto.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="14" />
+                    <option name="endCharacter" value="26" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="contactDetails" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/accounts/src/main/java/com/microservice/accounts/dto/AccountContactInfoDto.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="31" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="45" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="onCallSupport" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/accounts/src/main/java/com/microservice/accounts/dto/AccountContactInfoDto.java" />
+                    <option name="startLine" value="16" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="16" />
+                    <option name="endCharacter" value="38" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
               </option>
             </FileEntry>
           </value>
@@ -1895,9 +2013,52 @@
             <FileEntry>
               <option name="meta">
                 <FileMeta>
-                  <option name="timeStamp" value="1767702138391" />
-                  <option name="hash" value="-2086374933" />
+                  <option name="timeStamp" value="1767855974779" />
+                  <option name="hash" value="2005312374" />
                 </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="CardsContactInfoDto" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" />
+                    <option name="startLine" value="9" />
+                    <option name="endLine" value="16" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="message" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" />
+                    <option name="startLine" value="13" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="13" />
+                    <option name="endCharacter" value="26" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="contactDetails" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="14" />
+                    <option name="endCharacter" value="46" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="onCallSupport" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="38" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
               </option>
             </FileEntry>
           </value>
@@ -3307,9 +3468,52 @@
             <FileEntry>
               <option name="meta">
                 <FileMeta>
-                  <option name="timeStamp" value="1767702941668" />
-                  <option name="hash" value="1364916136" />
+                  <option name="timeStamp" value="1767856035785" />
+                  <option name="hash" value="-1988041805" />
                 </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="LoansContactInfoDto" />
+                    <option name="kind" value="CLASS" />
+                    <option name="filePath" value="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" />
+                    <option name="startLine" value="10" />
+                    <option name="endLine" value="17" />
+                    <option name="endCharacter" value="1" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="message" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" />
+                    <option name="startLine" value="14" />
+                    <option name="startCharacter" value="19" />
+                    <option name="endLine" value="14" />
+                    <option name="endCharacter" value="26" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="contactDetails" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" />
+                    <option name="startLine" value="15" />
+                    <option name="startCharacter" value="32" />
+                    <option name="endLine" value="15" />
+                    <option name="endCharacter" value="46" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="onCallSupport" />
+                    <option name="kind" value="VARIABLE" />
+                    <option name="filePath" value="$PROJECT_DIR$/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" />
+                    <option name="startLine" value="16" />
+                    <option name="startCharacter" value="25" />
+                    <option name="endLine" value="16" />
+                    <option name="endCharacter" value="38" />
+                    <option name="language" value="java" />
+                  </SymbolRecordBean>
+                </list>
               </option>
             </FileEntry>
           </value>

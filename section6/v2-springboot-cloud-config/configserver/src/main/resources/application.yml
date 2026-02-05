@@ -12,7 +12,7 @@ spring:
           #file system approach
           #search-locations: "file:///C:/Users/pravishn2/Documents/Dev/Microservices/section6/v2-springboot-cloud-config/configserver/src/main/resources/config"
         git:
-          uri: https://github.com/eazybytes/eazybytes-config.git
+          uri: https://github.com/prakhar10104701/prakhar10104701-config.git
           default-label: main
           timeout: 5
           clone-on-start: true
